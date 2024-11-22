@@ -24,27 +24,26 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-I'm **devbaoo**, a student at FPT University, about me:
+I'm **devdylan**, a student at FPT University, about me:
 - 🔭 I’m currently working on 🌐**Web Development**
 - 🌱 I’m currently learning **Angular and C#**
 - 👯 I’m looking to collaborate on 🌐**Web Development**
 - 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://www.facebook.com/DevBaoo.712)! I am happy to help.
+- 💬 Ask me about Anything [here](https://www.facebook.com/DevDylan.1812/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=devbaoo" alt="devbaoo" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devbaoo?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/devbaoo?label=Stars" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=devdylan" alt="devdylan" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devdylan?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/devdylan?label=Stars" alt="Total Stars">
 </p>
 
 ## 📫 How to Reach Me
 
-- Email: baockse172296@fpt.edu.vn
+- Email: devdylan.work@gmail.com
 <p align="center">
-<a href="https://www.instagram.com/devbaoo_712/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/devbaoo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
- <a href="https://www.facebook.com/DevBaoo.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devbaoo" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/devdylan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+ <a href="https://www.facebook.com/DevDylan.1812/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devdylan" height="50" width="50" /></a>
 </p>
 
 ## 🌱 Currently Learning
